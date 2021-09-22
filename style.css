@@ -1,0 +1,44 @@
+body {
+  background: #E2E8DD;
+}
+
+.header_div {
+  background: #a7ecf1;
+  color: rgb(11, 189, 212);
+}
+
+h2 {
+  font-family: 'Oswald', sans-serif;
+}
+
+h3 {
+  font-family: 'Share Tech Mono', monospace;
+}
+
+.header_div p {
+  font-family: 'Roboto', sans-serif;
+  letter-spacing: 2px;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.main_div button {
+  font-family: 'Roboto', sans-serif;
+  margin-top: 30px;
+  width: 130px;
+  font-weight: bolder;
+  letter-spacing: 3px;
+}
+
+
+.copy_right_footer {
+  position: fixed;
+  color: #16c8e7;
+  bottom: 0;
+  width: 100%;
+  font-size: 18px;
+  background-color: #e90866;
+  line-height: 3;
+  text-align: center;
+  font-family: 'Poiret One', cursive;
+}
